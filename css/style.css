@@ -52,7 +52,9 @@ nav ul li a{
     padding: 10px;
     font-weight: 700;
 }
-nav ul li a:hover{}
+nav ul li a:hover{
+    color: #15a4fa;
+}
 /*header css stop*/
 
 /*banner css start*/
@@ -119,9 +121,7 @@ nav ul li a:hover{}
     padding: 30px;
     color: #fff;
 }
-.head{
-color: #2d3950;
-}
+.head{color: #2d396a;}
 .heading h1{
     margin-bottom: 15px;
 }
